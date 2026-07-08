@@ -1,0 +1,23 @@
+export const POST_STATUS = {
+  PUBLISHED: 'PUBLISHED',
+  FLAGGED: 'FLAGGED',
+  REMOVED: 'REMOVED'
+}
+
+export const TARGET_TYPE = {
+  POST: 'POST',
+  COMMENT: 'COMMENT'
+}
+
+export const FOLLOW_TYPE = {
+  USER: 'USER',
+  CATEGORY: 'CATEGORY'
+}
+
+export const NOTIFICATION_TYPE = {
+  REPLY: 'REPLY',
+  MENTION: 'MENTION',
+  LIKE: 'LIKE',
+  FOLLOW: 'FOLLOW',
+  SYSTEM: 'SYSTEM'
+}
