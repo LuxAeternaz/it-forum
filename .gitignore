@@ -3,7 +3,7 @@
 CLAUDE.md
 
 # Upload files
-upload/
+uploads/
 
 # Word 临时锁定文件（所有者文件）
 ~$*.docx
